@@ -107,6 +107,8 @@ header nav ul li a
 {
     height: 580px;
     background: url('Images/Main.jpg') center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 #main-image h2
 {
